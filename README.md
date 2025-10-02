@@ -1,2 +1,8 @@
-# politicas-meta
-politicas de privacidade
+<!DOCTYPE html>
+<html>
+  <head><title>Privacy Policy</title></head>
+  <body>
+    <h1>Privacy Policy</h1>
+    <p>This is a placeholder privacy policy for testing purposes only.</p>
+  </body>
+</html>
